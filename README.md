@@ -54,6 +54,7 @@ Here's a list of the bot's functions with explanations:
 
 !comparison player_name days - Fetches players average for the season in all stat categories, their rolling average given n amount of days in all stat categories, and renders a bar chart that compares them both respectively
 
+[stat_bot_screenshot](https://github.com/user-attachments/assets/328d3ffc-5990-4524-8e81-6053886ffede)
 
 
 !last_updated - Fetches the Day, Date, and Time all stats were last updated
