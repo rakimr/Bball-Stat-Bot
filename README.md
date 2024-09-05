@@ -5,6 +5,8 @@ Here's a list of the bot's functions with explanations:
 
 !season_pts player_name - Fetches players average points for the season
 
+![Screenshot 2024-09-05 084857](https://github.com/user-attachments/assets/74d5614a-bc74-4ac1-a6b6-a5a63827bc07)
+
 !season_fg player_name - Fetches players average field goals for the season
 
 
@@ -29,6 +31,7 @@ Here's a list of the bot's functions with explanations:
 
 !last_pts player_name days - Fetches players rolling average in points given n amount of days
 
+![Screenshot 2024-09-05 085215](https://github.com/user-attachments/assets/c7bbed51-e3b9-45bf-b976-c49e56133a14)
 
 !last_fg player_name days - Fetches players rolling average in field goals given n amount of days
 
@@ -54,11 +57,12 @@ Here's a list of the bot's functions with explanations:
 
 !comparison player_name days - Fetches players average for the season in all stat categories, their rolling average given n amount of days in all stat categories, and renders a bar chart that compares them both respectively
 
-[stat_bot_screenshot](https://github.com/user-attachments/assets/328d3ffc-5990-4524-8e81-6053886ffede)
+![stat_bot_screenshot](https://github.com/user-attachments/assets/f85f27e6-0f05-4517-97a3-af8e9a71118b)
 
 
 !last_updated - Fetches the Day, Date, and Time all stats were last updated
 
+![Screenshot 2024-09-05 085458](https://github.com/user-attachments/assets/d9bfb074-2fc6-43e9-991f-e7e6e031f80c)
 
 
 The discord server is called Bball Portal
