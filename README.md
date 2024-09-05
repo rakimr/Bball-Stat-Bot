@@ -1,17 +1,9 @@
-This is a discord bot I coded up earlier this summer. I'm really passionate about basketball statistics, mainly because my road to becoming an Analyst required me to pass some intense stat courses.
-Stats in the context of basketball helped me understand the courses a lot better, and now here I am honing a B.S. in Data Analytics.
-
-Anyway, I created a discord server where NBA researchers/bettors could come together and share their opinions and "tickets."
-
-I noticed that a large portion of their time was spent googling player stats. I wanted to change that.
-
-So I coded up Bball Stat Bot to fetch the stats for them.
+This is a discord bot I coded up earlier this summer. I'm really passionate about basketball statistics, mainly because my road to becoming an Analyst required me to pass some intense stat courses. Stats in the context of basketball helped me understand the courses a lot better, and now here I am honing a B.S. in Data Analytics. Anyway, I created a discord server where NBA researchers/bettors could come together and share their opinions and "tickets." I noticed that a large portion of their time was spent googling player stats. I wanted to change that. So I coded up Bball Stat Bot to fetch the stats for them.
 
 Here's a list of the bot's functions with explanations:
 
 
 !season_pts player_name - Fetches players average points for the season
-
 
 !season_fg player_name - Fetches players average field goals for the season
 
